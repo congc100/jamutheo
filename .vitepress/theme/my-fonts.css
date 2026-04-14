@@ -93,8 +93,11 @@
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main p {
     font-size: 20px;
   }
-  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main div ul li {
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main li {
     font-size: 20px;
+  }
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main strong {
+    font-weight: 800;
   }
 
   /* 目录 */
