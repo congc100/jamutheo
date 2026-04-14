@@ -46,6 +46,7 @@ export default defineConfig({
         items: [
           { text: '05-自然和弦功能', link: '/major/05-自然和弦功能' },
           { text: '06-副属和弦功能', link: '/major/06-副属和弦功能' },
+          { text: '07-相关2级和弦功能', link: '/major/07-相关2级和弦功能' },
         ],
       },
       {
