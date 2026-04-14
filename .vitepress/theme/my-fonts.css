@@ -85,11 +85,15 @@
   /* 正文 */
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main h1 {
     font-size: 40px;
+    font-family: "Noto Serif SC", serif;
   }
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main h2 {
     font-size: 30px;
   }
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main p {
+    font-size: 20px;
+  }
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main div ul li {
     font-size: 20px;
   }
 

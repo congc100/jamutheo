@@ -35,6 +35,7 @@ export default defineConfig({
           text: '基本概念',
           items: [
             { text: '01-音程', link: '/basic/01-音程' },
+            { text: '02-和弦', link: '/basic/02-和弦' },
           ]
         }
       ],
