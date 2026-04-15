@@ -14,13 +14,15 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: false,
+    sidebarMenuLabel: '章节列表',
+    returnToTopLabel: '返回顶部',
     outline: {
-      label: "目录",
+      label: '本章目录',
       level: 'deep',
     },
     docFooter: {
-      prev: false,
-      next: false,
+      prev: '上一章',
+      next: '下一章',
     },
 
     nav: [
