@@ -29,7 +29,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '基本概念', link: '/basic/01-音程' },
       { text: '大调和声', link: '/major/05-自然和弦功能' },
-      { text: '小调和声', link: '/minor/minor' },
+      { text: '补充知识', link: '/misc/09-小调和声' },
     ],
 
     sidebar: [
@@ -54,10 +54,12 @@ export default defineConfig({
         ],
       },
       {
-        text: '小调和声',
+        text: '补充知识',
         collapsed: false,
         items: [
-          { text: 'todo', link: '/minor/minor' },
+          { text: '09-小调和声', link: '/misc/09-小调和声' },
+          { text: '10-减七和弦', link: '/misc/10-减七和弦' },
+          { text: '11-惯用线', link: '/misc/11-惯用线' },
         ],
       },
     ],
