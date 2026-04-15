@@ -15,7 +15,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: false,
     outline: {
-      label: "目录"
+      label: "目录",
+      level: 'deep',
     },
     docFooter: {
       prev: false,
@@ -47,6 +48,7 @@ export default defineConfig({
           { text: '05-自然和弦功能', link: '/major/05-自然和弦功能' },
           { text: '06-副属和弦功能', link: '/major/06-副属和弦功能' },
           { text: '07-相关2级和弦功能', link: '/major/07-相关2级和弦功能' },
+          { text: '08-调式转换和弦功能', link: '/major/08-调式转换和弦功能' },
         ],
       },
       {

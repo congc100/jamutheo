@@ -90,6 +90,9 @@
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main h2 {
     font-size: 30px;
   }
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main h3 {
+    font-size: 25px;
+  }
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main p {
     font-size: 20px;
   }
@@ -98,6 +101,14 @@
   }
   html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main strong {
     font-weight: 800;
+  }
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main table td {
+    font-size: 20px;
+  }
+  html body div#app div.Layout div#VPContent.VPContent div.VPDoc div.container div.content div.content-container main.main table th {
+    font-size: 20px;
+    font-weight: normal;
+    color: var(--vp-c-text-1);
   }
 
   /* 目录 */
