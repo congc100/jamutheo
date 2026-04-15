@@ -37,8 +37,8 @@ export default defineConfig({
         items: [
           { text: '01-音程', link: '/basic/01-音程' },
           { text: '02-和弦', link: '/basic/02-和弦' },
-          { text: '03-调式转换', link: '/basic/03-调式转换' },
-          { text: '04-中古调式', link: '/basic/04-中古调式' },
+          { text: '03-扩展音', link: '/basic/03-扩展音' },
+          { text: '04-调式音阶', link: '/basic/04-调式音阶' },
         ],
       },
       {
