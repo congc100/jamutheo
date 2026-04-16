@@ -60,6 +60,7 @@ export default defineConfig({
           { text: '09-小调和声', link: '/misc/09-小调和声' },
           { text: '10-减七和弦', link: '/misc/10-减七和弦' },
           { text: '11-惯用线', link: '/misc/11-惯用线' },
+          { text: '12-布鲁斯', link: '/misc/12-布鲁斯' },
         ],
       },
     ],
